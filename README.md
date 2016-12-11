@@ -1,2 +1,3 @@
 # macsetup
-Macbook pro setup script
+
+Macbook pro environment setup script
