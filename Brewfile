@@ -30,6 +30,7 @@ mas 'iMovie', id: 408981434
 mas 'Microsoft Remote Desktop', id: 715768417
 mas 'Pocket', id: 568494494
 
+brew 'vim', args: ['with-override-system-vi']
 brew 'the_silver_searcher'
 brew 'postgresql'
 brew 'redis'
