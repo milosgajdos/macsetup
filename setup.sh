@@ -128,3 +128,5 @@ elif [ ! -f "$HOME/.ssh/github_rsa.pub" ]; then
 fi
 
 fancy_echo 'All done!'
+fancy_echo 'Finish installing YouCompleteMe'
+fancy_echo 'Change your iterm2 font to Powerline font'
